@@ -1,1 +1,21 @@
-body { font-family: Arial; background-color: #fefaf1; color: #003300; }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f4e3;
+    margin: 0;
+    padding: 0;
+}
+.banner {
+    background-color: #014421;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    color: #f8f4e3;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
