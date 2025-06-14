@@ -1,38 +1,22 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #fff8ec;
-    color: #1d3f2a;
+    background-color: #fffaf0;
+    color: #333;
     margin: 0;
-    padding: 0;
+    padding: 20px;
+}
+h1 {
+    color: #0b3d0b;
 }
 nav ul {
     list-style: none;
-    background-color: #f9f5e8;
-    text-align: center;
-    padding: 10px;
-    margin: 0;
-}
-nav ul li {
-    display: inline;
-    margin: 0 15px;
+    padding: 0;
+    display: flex;
+    gap: 10px;
 }
 nav ul li a {
     text-decoration: none;
-    color: #1d3f2a;
+    color: #0b3d0b;
     font-weight: bold;
-}
-.hero {
-    background-image: url('banner.jpg');
-    background-size: cover;
-    color: white;
-    padding: 80px 20px;
-    text-align: center;
-}
-.hero h1 {
-    font-size: 48px;
-    margin-bottom: 10px;
-}
-.hero p {
-    font-size: 20px;
 }
