@@ -1,26 +1,38 @@
 
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #fdf7eb;
+    font-family: Arial, sans-serif;
+    background-color: #fff8ec;
+    color: #1d3f2a;
+    margin: 0;
+    padding: 0;
 }
 nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  background: #fff;
-  padding: 10px;
-  margin: 0;
+    list-style: none;
+    background-color: #f9f5e8;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
 }
-nav li {
-  margin: 0 15px;
+nav ul li {
+    display: inline;
+    margin: 0 15px;
 }
-nav a {
-  text-decoration: none;
-  color: #004225;
-  font-weight: bold;
+nav ul li a {
+    text-decoration: none;
+    color: #1d3f2a;
+    font-weight: bold;
 }
-main {
-  padding: 20px;
+.hero {
+    background-image: url('banner.jpg');
+    background-size: cover;
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+}
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+.hero p {
+    font-size: 20px;
 }
