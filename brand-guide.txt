@@ -1,0 +1,16 @@
+Brand Guide - The London Ride
+
+Colors:
+- Harrods Green: #1d3c34
+- Cream Background: #f9f3e7
+- Gold Highlight: #d4b04a
+- Text Gray: #2e2e2e
+- Call-to-action Green: #175c3a
+
+Fonts:
+- Primary Font: Arial, sans-serif
+- All caps for hero text and logo
+
+Icons:
+- ✅ Green checkmarks for services and features
+- Taxi image to represent brand
